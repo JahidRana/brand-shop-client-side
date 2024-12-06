@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "brand_image": "https://i.ibb.co/8mWjjMD/apple-1.png",
+        "brand_name": "Apple",
+        "slide1":"https://i.ibb.co/N9FRRc4/slide2.jpg",
+        "slide2":"https://i.ibb.co/Lgsb8mr/slide1.webp",
+        "slide3":"https://i.ibb.co/S0mNLLK/slide3.png"
+    },
+    {
+        "id": 2,
+        "brand_image": "https://i.ibb.co/KWBK5Ds/samsung-2.jpg",
+        "brand_name": "Samsung",
+        "slide1":"https://i.ibb.co/KL3NpnP/slider1.png",
+        "slide2":"https://i.ibb.co/N9HCXSb/slide2.jpg",
+        "slide3":"https://i.ibb.co/ZcJTmbt/slide3.webp"
+    },
+    {
+        "id": 3,
+        "brand_image": "https://i.ibb.co/Gswm90W/oneplus.png",
+        "brand_name": "One Plus",
+        "slide1":"https://i.ibb.co/m5BN6Rr/slide1.jpg",
+        "slide2":"https://i.ibb.co/YdCkbgN/slide3.webp",
+        "slide3":"https://i.ibb.co/ChBzK6p/slide4.webp"
+    },
+    {
+        "id": 4,
+        "brand_image": "https://i.ibb.co/wC6fyD7/asus.png",
+        "brand_name": "Asus",
+        "slide1":"https://i.ibb.co/SP13Mg2/p1.jpg",
+        "slide2":"https://i.ibb.co/59ZjyKL/p2.jpg",
+        "slide3":"https://i.ibb.co/PF3FncS/p3.webp"
+    },
+    {
+        "id": 5,
+        "brand_image": "https://i.ibb.co/x3Tk7B4/lg.png",
+        "brand_name": "LG",
+        "slide1":"https://i.ibb.co/f46tzBY/p1.jpg",
+        "slide2":"https://i.ibb.co/HBvbGVs/p2.webp",
+        "slide3":"https://i.ibb.co/g78CVy9/p3.png"
+    },
+    {
+        "id": 6,
+        "brand_image": "https://i.ibb.co/rv8qN3J/realme.png",
+        "brand_name": "Realme",
+        "slide1":"https://i.ibb.co/S5FXBKJ/realme1.jpg",
+        "slide2":"https://i.ibb.co/jh9VRXL/realme2.jpg",
+        "slide3":"https://i.ibb.co/0FWVhb0/realme3.jpg"
+    }
+]
